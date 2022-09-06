@@ -8,7 +8,7 @@ public class Lab1 {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter the integer length of the rectangle - ");
 		int l = s.nextInt();
-		System.out.println("Enter the integer breadth of the rectabgle - ");
+		System.out.println("Enter the integer breadth of the rectangle - ");
 		int b = s.nextInt();
 		int area = l * b;
 		int perimeter = (l + b) * 2;
